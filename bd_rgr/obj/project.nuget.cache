@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yqJQ3yz3uBVZGlrbwWKHf3Ow+Ye1vk9g7Gc8jwPMzySnrlAvSbvsEcHCSuNzxmFy55l9GOBtfz0FDdDMRrGBjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MARY\\Downloads\\bd_rgr\\bd_rgr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MARY\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\MARY\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
